@@ -22,4 +22,3 @@ media= (numero1+numero2)/2
 print(f"o calculo da média dos numeros 20 e 30 é {media:.2f}")
 
 
-
